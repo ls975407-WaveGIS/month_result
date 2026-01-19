@@ -105,9 +105,9 @@ public class VirtualThreadPinnedDemo {
 ```
 
 ## Java 21
-![Carrier Thread java 21](/定期月總結/20260115/Carrier%20Thread%20java%2021.png)
+![Carrier Thread java 21](/月總結/20260115/Carrier%20Thread%20java%2021.png)
 
 ## Java 25
-![Carrier Thread java 25](/定期月總結/20260115/Carrier%20Thread%20java%2025.png)
+![Carrier Thread java 25](/月總結/20260115/Carrier%20Thread%20java%2025.png)
 
 
